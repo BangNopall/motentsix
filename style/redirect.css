@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+.title-text-1 {
+    color: black;
+    font-family: Poppins;
+    text-align: center;
+}
+
+.logo-redirect {
+    display: block;
+    margin: auto;
+}
+
+.amnjay-mabar {
+    color: grey;
+    text-align: center;
+}
